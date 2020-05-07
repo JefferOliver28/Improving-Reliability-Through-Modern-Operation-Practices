@@ -1,6 +1,7 @@
 # Improving-Reliability-Through-Modern-Operation-Practices
 Este es el repositorio del evento Microsoft Azure Virtual Training Days - Improving Reliability Through Modern Operation Practices
 ustedes van a encontrar 5 directorios que corresponde para cada una de las sesiones del evento
+
 OPS10
 https://github.com/jesusgilv/Improving-Reliability-Through-Modern-Operation-Practices/tree/master/OPS10
 
